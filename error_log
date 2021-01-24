@@ -1,0 +1,6 @@
+[13-Dec-2018 05:11:50 America/Chicago] PHP Notice:  Undefined index: perfil_id in /home/lgrib814/public_html/analiseti.com.br/bacelar/includes/menu.php on line 21
+[13-Dec-2018 05:11:50 America/Chicago] PHP Notice:  Undefined index: dir in /home/lgrib814/public_html/analiseti.com.br/bacelar/dir.php on line 37
+[13-Dec-2018 05:12:04 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/lgrib814/public_html/analiseti.com.br/bacelar/control/CrtUsuario.php on line 212
+[13-Dec-2018 05:12:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgrib814/public_html/analiseti.com.br/bacelar/control/CrtUsuario.php:212) in /home/lgrib814/public_html/analiseti.com.br/bacelar/control/CrtUsuario.php on line 215
+[13-Dec-2018 05:12:04 America/Chicago] PHP Notice:  Undefined index: perfil_id in /home/lgrib814/public_html/analiseti.com.br/bacelar/includes/menu.php on line 21
+[13-Dec-2018 05:12:57 America/Chicago] PHP Notice:  Undefined index: perfil_id in /home/lgrib814/public_html/analiseti.com.br/bacelar/includes/menu.php on line 21

@@ -1,0 +1,5 @@
+# BEGIN custom php.ini PHP52
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /home/lgrib814/public_html/analiseti.com.br/bacelar
+</IfModule>
+# END custom php.ini
